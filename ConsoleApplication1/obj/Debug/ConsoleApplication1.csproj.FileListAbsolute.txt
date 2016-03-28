@@ -1,0 +1,6 @@
+c:\users\nino_pc\documents\visual studio 2015\Projects\RockPaperScissor\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\nino_pc\documents\visual studio 2015\Projects\RockPaperScissor\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\nino_pc\documents\visual studio 2015\Projects\RockPaperScissor\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\nino_pc\documents\visual studio 2015\Projects\RockPaperScissor\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\nino_pc\documents\visual studio 2015\Projects\RockPaperScissor\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\NINO_PC\documents\visual studio 2015\Projects\RockPaperScissor\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
